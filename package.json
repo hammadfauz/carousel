@@ -1,5 +1,5 @@
 {
-  "name": "carousel",
+  "name": "react_carousel",
   "version": "1.0.0",
   "description": "React Carousel Component shows child elements as a slide-show",
   "main": "dist/index.js",
